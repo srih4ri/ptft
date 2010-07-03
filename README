@@ -1,0 +1,8 @@
+A python twitter follow tracker
+
+Run this script when you want to be updated about the changes about:
+
+* Who unfollowed you / Who are your new unfollowers
+* Who are your new followers
+
+This script is still in its skeletal form.Now keeps the follower and friend list in a file and compares it to previous entry.
